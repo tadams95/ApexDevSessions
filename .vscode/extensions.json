@@ -1,9 +1,10 @@
 {
   "recommendations": [
     "salesforce.salesforcedx-vscode",
-    "redhat.vscode-xml",
-    "dbaeumer.vscode-eslint",
+    "salesforce.salesforcedx-vscode-apex",
+    "github.copilot",
+    "github.copilot-chat",
     "esbenp.prettier-vscode",
-    "financialforce.lana"
+    "streetsidesoftware.code-spell-checker"
   ]
 }
